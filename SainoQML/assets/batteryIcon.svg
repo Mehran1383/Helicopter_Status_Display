@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <svg xmlns="http://www.w3.org/2000/svg" width="48" height="26" viewBox="0 0 48 26">
+  <defs>
+    <style>
+      .a {
+        fill: #d3d4ed;
+      }
+    </style>
+  </defs>
+  <title>4 Battery_4</title>
+  <path class="a" d="M45,7H43V5a5,5,0,0,0-5-5H5A5,5,0,0,0,0,5V21a5,5,0,0,0,5,5H38a5,5,0,0,0,5-5V19h2a3,3,0,0,0,3-3V10A3,3,0,0,0,45,7ZM30.15,14.36l-7.46-.57V19a.79.79,0,0,1-1.25.63l-9.1-6.53a.78.78,0,0,1,.53-1.41l7.46.57V7.05a.79.79,0,0,1,1.25-.63l9.1,6.52A.78.78,0,0,1,30.15,14.36Z"/>
+</svg>

@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/battery.svg</file>
+        <file>assets/battery_red.svg</file>
+        <file>assets/light.svg</file>
+        <file>assets/light_green.svg</file>
+        <file>assets/topBar.svg</file>
+        <file>assets/panel.svg</file>
+        <file>Gauge.qml</file>
+        <file>assets/background.svg</file>
+        <file>assets/needle.svg</file>
+        <file>assets/tickmark.svg</file>
+        <file>SideGauge.qml</file>
+        <file>assets/maxLimit.svg</file>
+        <file>assets/Rectangle 4.svg</file>
+        <file>assets/Ellipse 1.svg</file>
+        <file>assets/Ellipse 6.svg</file>
+        <file>assets/Subtract.svg</file>
+        <file>assets/Vector 1.png</file>
+        <file>assets/desal.svg</file>
+        <file>assets/batteryIcon.svg</file>
+        <file>assets/fuel_red.svg</file>
+        <file>assets/fuel.svg</file>
+        <file>assets/camera_green.svg</file>
+        <file>assets/camera_red.svg</file>
+        <file>assets/camera_yellow.svg</file>
+        <file>assets/radio_green.svg</file>
+        <file>assets/radio_orange.svg</file>
+        <file>assets/radio_red.svg</file>
+        <file>assets/panel_green.svg</file>
+        <file>assets/panel_red.svg</file>
+        <file>assets/logo.png</file>
+    </qresource>
+</RCC>
