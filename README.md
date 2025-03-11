@@ -22,4 +22,22 @@ The designed page includes the following elements:
 
 ## User Testing
 
+You can contorl the panel using following keyboard shortcuts :
+- Press Ctrl + Q to quit
+- Press L to change lights state
+- Press C to change camera state
+- Press R to change radio signals state
+- Press P to change control panel state
+- Press shift to increase speed
+- Press right key to increase inside temperature
+- Press left key to decrease inside temperature
+- Press key 6 to increase outside temperature
+- Press key 4 to decrease outside temperature
+- Press PgUp key to increase battery charge
+- Press PgDn key to decrease battery charge
+- Press key 8 to increase the amount of fuel
+- Press key 2 to decrease the amount of fuel
+
 ## Project Demo
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2f9b2e6e-e69a-4ecd-9c2c-2e34fe3444d1)
+
